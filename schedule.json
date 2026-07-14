@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "team": "Eagles on the Air",
+  "school": "Fort Bend Christian Academy",
+  "timezone": "America/Chicago",
+  "streamUrl": "https://cdn3.wowza.com/1/dWs2d1hVSlFlQlFH/c2RJVUtM/hls/live/playlist.m3u8",
+  "archiveUrl": "https://www.youtube.com/@eaglesontheair",
+  "updated": "2026-07-14T12:00:00-05:00",
+  "games": [
+    {
+      "id": "2026-08-28-fb-lutheran-south",
+      "start": "2026-08-28T19:00:00-05:00",
+      "sport": "Football",
+      "opponent": "Lutheran South Pioneers",
+      "homeAway": "home",
+      "location": "Eagle Stadium, Sugar Land",
+      "notes": "Season opener"
+    },
+    {
+      "id": "2026-09-01-vb-second-baptist",
+      "start": "2026-09-01T18:00:00-05:00",
+      "sport": "Volleyball",
+      "opponent": "Second Baptist Eagles",
+      "homeAway": "home",
+      "location": "FBCA Competition Gym",
+      "notes": null
+    },
+    {
+      "id": "2026-09-04-fb-northland",
+      "start": "2026-09-04T19:00:00-05:00",
+      "sport": "Football",
+      "opponent": "Northland Christian Cougars",
+      "homeAway": "away",
+      "location": "Northland Christian School, Houston",
+      "notes": null
+    },
+    {
+      "id": "2026-09-11-fb-st-thomas",
+      "start": "2026-09-11T19:00:00-05:00",
+      "sport": "Football",
+      "opponent": "St. Thomas Episcopal",
+      "homeAway": "home",
+      "location": "Eagle Stadium, Sugar Land",
+      "notes": "Homecoming"
+    },
+    {
+      "id": "2026-09-15-vb-fort-bend-baptist",
+      "start": "2026-09-15T18:30:00-05:00",
+      "sport": "Volleyball",
+      "opponent": "Fort Bend Baptist",
+      "homeAway": "home",
+      "location": "FBCA Competition Gym",
+      "notes": null
+    }
+  ]
+}
