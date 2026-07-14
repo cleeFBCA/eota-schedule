@@ -13,7 +13,7 @@
       "sport": "Football",
       "opponent": "St. Pius X Catholic School",
       "homeAway": "away",
-      "location": null,
+      "location": "Kubiak Stadium",
       "notes": "FB Season Opener"
     },
     {
@@ -22,7 +22,7 @@
       "sport": "Volleyball",
       "opponent": "Duchesne Academy of the Sacred Heart",
       "homeAway": "home",
-      "location": null,
+      "location": "The Nest",
       "notes": "VB Season Opener"
     },
     {
@@ -31,7 +31,7 @@
       "sport": "Football",
       "opponent": "John Cooper School",
       "homeAway": "home",
-      "location": null,
+      "location": "Eagle Stadium",
       "notes": null
     },
     {
@@ -40,7 +40,7 @@
       "sport": "Volleyball",
       "opponent": "St. John XXIII College Preparatory",
       "homeAway": "home",
-      "location": null,
+      "location": "The Nest",
       "notes": null
     },
     {
@@ -49,7 +49,7 @@
       "sport": "Volleyball",
       "opponent": "The Woodlands Christian Academy",
       "homeAway": "home",
-      "location": null,
+      "location": "The Nest",
       "notes": null
     },
     {
@@ -58,7 +58,7 @@
       "sport": "Football",
       "opponent": "Houston Christian High School",
       "homeAway": "away",
-      "location": null,
+      "location": "Mustang Field",
       "notes": null
     },
     {
@@ -67,7 +67,7 @@
       "sport": "Football",
       "opponent": "Episcopal High School",
       "homeAway": "away",
-      "location": null,
+      "location": "Simmons Field",
       "notes": null
     },
     {
@@ -76,7 +76,7 @@
       "sport": "Volleyball",
       "opponent": "The Emery/Weiner School",
       "homeAway": "home",
-      "location": null,
+      "location": "The Nest",
       "notes": null
     },
     {
@@ -85,7 +85,7 @@
       "sport": "Football",
       "opponent": "Concordia Lutheran High School Tomball",
       "homeAway": "home",
-      "location": null,
+      "location": "Eagle Stadium",
       "notes": "Senior Night"
     },
     {
@@ -94,7 +94,7 @@
       "sport": "Football",
       "opponent": "St. John's School",
       "homeAway": "home",
-      "location": null,
+      "location": "Eagle Stadium",
       "notes": null
     },
     {
@@ -103,7 +103,7 @@
       "sport": "Volleyball",
       "opponent": "Second Baptist School",
       "homeAway": "home",
-      "location": null,
+      "location": "The Nest",
       "notes": null
     },
     {
@@ -112,7 +112,7 @@
       "sport": "Volleyball",
       "opponent": "Logos Preparatory Academy",
       "homeAway": "home",
-      "location": null,
+      "location": "The Nest",
       "notes": null
     },
     {
@@ -121,7 +121,7 @@
       "sport": "Football",
       "opponent": "Second Baptist School",
       "homeAway": "home",
-      "location": null,
+      "location": "Eagle Stadium",
       "notes": null
     },
     {
@@ -130,7 +130,7 @@
       "sport": "Volleyball",
       "opponent": "St. Joseph School",
       "homeAway": "home",
-      "location": null,
+      "location": "The Nest",
       "notes": null
     },
     {
@@ -139,7 +139,7 @@
       "sport": "Football",
       "opponent": "The Woodlands Christian Academy",
       "homeAway": "away",
-      "location": null,
+      "location": "Warrior Stadium",
       "notes": null
     },
     {
@@ -148,7 +148,7 @@
       "sport": "Volleyball",
       "opponent": "Cypress Christian School",
       "homeAway": "home",
-      "location": null,
+      "location": "The Nest",
       "notes": null
     },
     {
@@ -157,7 +157,7 @@
       "sport": "Football",
       "opponent": "Cypress Christian School",
       "homeAway": "home",
-      "location": null,
+      "location": "Eagle Stadium",
       "notes": "Homecoming"
     },
     {
@@ -166,7 +166,7 @@
       "sport": "Football",
       "opponent": "St Joseph's Academy Brownsville",
       "homeAway": "away",
-      "location": null,
+      "location": "J.T. Canales Field",
       "notes": null
     }
   ]
